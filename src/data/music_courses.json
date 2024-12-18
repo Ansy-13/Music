@@ -1,0 +1,125 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "slug": "Introduction to music",
+        "description": "Learn the fundamentals of music theory, including notation, scales, and chords.",
+        "level": "Beginner",
+        "isFeatured": false,
+        "price" : 99.9,
+        "duration_weeks": 6,
+        "topics": ["Music notation", "Scales and intervals", "Chord structures", "Basic harmony"],
+        "image" : "/pic/hittor.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Guitar Basics",
+        "slug": "Guitar fundamentals",
+        "description": "A beginner's guide to playing the guitar, covering basic chords, strumming, and tuning.",
+        "level": "Beginner",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 8,
+        "topics": ["Guitar anatomy", "Chords and scales", "Strumming techniques", "Basic songs"],
+        "image":"/guitar.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Vocal Training Essentials",
+        "slug": "Vocal Trainig",
+        "description": "Develop vocal techniques, breathing exercises, and understanding of pitch and tone.",
+        "level": "Intermediate",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 10,
+        "topics": ["Breathing techniques", "Pitch control", "Vocal health", "Vocal exercises"],
+        "image":"/pic/vocal.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Piano Fundametals ",
+        "slug": " piano fundamentals" ,       
+        "description": "Learn the basics of playing the piano, from hand positioning to simple songs.",
+        "level": "Beginner",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 8,
+        "topics": ["Keyboard layout", "Hand positioning", "Basic scales", "Simple songs"],
+        "image":"/pic/pianio.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Advanced Music Composition",
+        "slug":"Music composition",
+        "description": "Explore advanced techniques for composing music, including melody development and orchestration.",
+        "level": "Advanced",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 12,
+        "topics": ["Melody development", "Counterpoint", "Harmony and rhythm", "Orchestration"],
+        "image":"/pic/composition.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Electronic Music Production",
+        "slug": "Electronic music fundamentals",
+        "description": "Introduction to producing music electronically using software and digital instruments.",
+        "level": "Intermediate",
+        "isFeatured": false,
+        "price" : 99.9,
+        "duration_weeks": 10,
+        "topics": ["Digital audio workstations (DAWs)", "Sampling", "Synthesizers", "Mixing and mastering"],
+        "image":"/pic/production.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Jazz Improvisation",
+        "slug": "Jazz music",
+        "description": "Learn the basics of jazz improvisation, including scales, phrasing, and harmonic understanding.",
+        "level": "Advanced",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 12,
+        "topics": ["Jazz scales", "Chord progressions", "Phrasing techniques", "Improvisation exercises"],
+        "image":"/pic/jazz.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Music History and Appreciation",
+        "slug": "Music History",
+        "description": "Explore the history of music from classical to modern-day genres and influential artists.",
+        "level": "All levels",
+        "isFeatured": false,
+        "price" : 99.9,
+        "duration_weeks": 6,
+        "topics": ["Classical music", "Jazz and blues", "Rock and pop", "Modern music evolution"],
+        "image":"/pic/history.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Drum Techniques for Beginners",
+        "slug": "techniques about Drum ",
+        "description": "Introduction to drumming techniques, including rhythm basics, hand control, and coordination.",
+        "level": "Beginner",
+        "isFeatured": true,
+        "price" : 99.9,
+        "duration_weeks": 8,
+        "topics": ["Basic rhythms", "Hand and foot coordination", "Drum rudiments", "Simple patterns"],
+        "image":"/pic/drum.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Songwriting Workshop",
+        "slug": "writing fundamentals",
+        "description": "Learn the essentials of songwriting, from lyrics and melody to structure and production.",
+        "level": "Intermediate",
+        "isFeatured": false,
+        "price" : 99.9,
+        "duration_weeks": 8,
+        "topics": ["Lyric writing", "Song structure", "Melody and harmony", "Collaborative songwriting"],
+        "image":"/pic/song.jpg"
+      }
+    ]
+  }
+  
